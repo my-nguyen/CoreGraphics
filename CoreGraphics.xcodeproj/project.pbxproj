@@ -12,6 +12,7 @@
 		0FE975781D6539AA004EF060 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FE975761D6539AA004EF060 /* Main.storyboard */; };
 		0FE9757A1D6539AA004EF060 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FE975791D6539AA004EF060 /* Assets.xcassets */; };
 		0FE9757D1D6539AA004EF060 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FE9757B1D6539AA004EF060 /* LaunchScreen.storyboard */; };
+		0FE975851D6539C8004EF060 /* mouse.png in Resources */ = {isa = PBXBuildFile; fileRef = 0FE975841D6539C8004EF060 /* mouse.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0FE975791D6539AA004EF060 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0FE9757C1D6539AA004EF060 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FE9757E1D6539AA004EF060 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FE975841D6539C8004EF060 /* mouse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mouse.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		0FE975711D6539AA004EF060 /* CoreGraphics */ = {
 			isa = PBXGroup;
 			children = (
+				0FE975841D6539C8004EF060 /* mouse.png */,
 				0FE975721D6539AA004EF060 /* AppDelegate.swift */,
 				0FE975741D6539AA004EF060 /* ViewController.swift */,
 				0FE975761D6539AA004EF060 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FE9757D1D6539AA004EF060 /* LaunchScreen.storyboard in Resources */,
+				0FE975851D6539C8004EF060 /* mouse.png in Resources */,
 				0FE9757A1D6539AA004EF060 /* Assets.xcassets in Resources */,
 				0FE975781D6539AA004EF060 /* Main.storyboard in Resources */,
 			);
